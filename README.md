@@ -5,7 +5,7 @@
 - 📬 Email me at: jack.nunnink@protonmail.com
 - 🌎 Or connect with me at: https://www.linkedin.com/in/jacknunnink/ 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackNunnink&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackNunnink&show_icons=true&theme=github_dark)
 
 ### MY LANGUAGES & TOOLS
 
