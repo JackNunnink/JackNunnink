@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Jack Nunnink
 
-- 🌳 Currently a Full Stack Web Development student at Bloom Institute of Tech
+- 🌳 Currently a Full Stack Web Development student at Bloom Institute of Technology 
 - 💬 Let's talk about JavaScript, React, Node, Redux, and SQL
 
 ![Alt Text](https://data.whicdn.com/images/264382003/original.gif)
