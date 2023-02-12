@@ -5,13 +5,19 @@
 - 📬 Email me at: jack.nunnink@protonmail.com
 - 🌎 Or connect with me at: https://www.linkedin.com/in/jacknunnink/ 
 
+#
+
 ### MY GRADUATION CERTIFICATE
 
 ![alt text](https://images.credly.com/size/200x200/images/7e3ea1ad-9b8e-44c4-ad9c-219aae5d89ab/image.png)
 
 https://www.credly.com/badges/04f44441-bc9d-4074-84b2-5bab6806505c/public_url
 
+#
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackNunnink&show_icons=true&theme=github_dark)
+
+#
 
 ### MY LANGUAGES & TOOLS
 
